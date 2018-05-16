@@ -1,2 +1,2 @@
 # Systems_Programming
-Simple pascal parser and assebmly generator
+Simple pascal parser and assembly generator
